@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zijian Li"
+title                    : "Zijian Li (李梓健)"
 description              : ""
 repository               : "TroubleMaker1994/zijianli.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Zijian Li"
+  name             : "Zijian Li (李梓健)"
   avatar           : "images/bio.png"
   bio              : "Jilin University"
   location         : "Changchun, China"
