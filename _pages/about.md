@@ -37,17 +37,8 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588), **Zijian Li**, Zihan Chen, Xiaohui Wei, Shang Gao, Chenghao Ren, Tony Q.S. Quek, *2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022
 - [AreaTransfer: A Cross-City Crowd Flow Prediction Framework Based on Transfer Learning](https://link.springer.com/chapter/10.1007/978-3-030-97774-0_22), Xiaohui Wei, Tao Guo, Hongmei Yu, **Zijian Li**, Hao Guo, Xiang Li, *International Conference on Smart Computing and Communication (SmartCom)*, 2021 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Services
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## Selected Technical Reviewer:
+- 
