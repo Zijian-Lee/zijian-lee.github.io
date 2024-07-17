@@ -23,14 +23,14 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Zijian Li (李梓健)"
   avatar           : "images/bio.png"
-  bio              : "Jilin University"
-  location         : "Changchun, China"
+  bio              : "Dalian Maritime University"
+  location         : "Dalian, China"
   employer         :
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zijianli_cs@outlook.com"
   researchgate     :  "https://www.researchgate.net/profile/Zijian-Li-11"
-  url              :  "https://troublemaker1994.github.io/zijianli.github.io/"
+  url              :  "https://zijianli.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
