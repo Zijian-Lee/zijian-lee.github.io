@@ -23,7 +23,7 @@ I received the B.S. degree, and the Ph.D. degree in computer science from Jilin 
 My research interest includes mobile crowdsensing, federated learning, and edge computing.
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 TBD
+- *2023.08*: &nbsp;🎉🎉 
 
 
 # 📝 Publications 
