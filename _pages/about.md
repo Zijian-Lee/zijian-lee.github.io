@@ -32,7 +32,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 - [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
   **Zijian Li**, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
-  *IEEE Transactions on Mobile Computing (TMC)*, 2024<br><br><br>
+  *IEEE Transactions on Mobile Computing (TMC)*, 2024<br><br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556), Xiaohui Wei, **Zijian Li**, Chenghao Ren, Tao Guo, Shang Gao, *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor)
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817), Xiaohui Wei, **Zijian Li**, Yuanyuan Liu, Shang Gao, Hengshan Yue, *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1), Zhewen Xu, Xiaohui Wei, Jieyun Hao, Junze Han, Hongliang Li, Changzheng Liu, **Zijian Li**, Dongyuan Tian, Nong Zhang, *GeoInformatica*, 2024
