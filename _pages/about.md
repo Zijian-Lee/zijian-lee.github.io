@@ -46,7 +46,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 ## Conference Papers:
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588)<br>
   **Zijian Li**, Zihan Chen, Xiaohui Wei, Shang Gao, Chenghao Ren, Tony Q.S. Quek<br>
-  *2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022<br>
+  *19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022<br>
 - [CFPA: Cognitive Federated Partial Adaptation for Effective Personalization](https://ieeexplore.ieee.org/document/10566979)<br>
   Xiaohui Wei, Didi Jiao, Shiyu Tong, **Zijian Li\***, Chenghao Ren, Hengshan Yue<br>
   *19th International Conference on Mobility, Sensing and Networking (MSN)*, 2023<br>
