@@ -33,9 +33,15 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
   **Zijian Li**, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
   *IEEE Transactions on Mobile Computing (TMC)*, 2024<br><br>
-- [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556), Xiaohui Wei, **Zijian Li**, Chenghao Ren, Tao Guo, Shang Gao, *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor)
-- [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817), Xiaohui Wei, **Zijian Li**, Yuanyuan Liu, Shang Gao, Hengshan Yue, *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)
-- [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1), Zhewen Xu, Xiaohui Wei, Jieyun Hao, Junze Han, Hongliang Li, Changzheng Liu, **Zijian Li**, Dongyuan Tian, Nong Zhang, *GeoInformatica*, 2024
+- [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
+  Xiaohui Wei, **Zijian Li**, Chenghao Ren, Tao Guo, Shang Gao<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor)<br><br>
+- [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
+  Xiaohui Wei, **Zijian Li**, Yuanyuan Liu, Shang Gao, Hengshan Yue<br>
+  *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)<br><br>
+- [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1)<br>
+  Zhewen Xu, Xiaohui Wei, Jieyun Hao, Junze Han, Hongliang Li, Changzheng Liu, **Zijian Li**, Dongyuan Tian, Nong Zhang<br>
+  *GeoInformatica*, 2024<br>
 
 ## Conference Papers:
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588), **Zijian Li**, Zihan Chen, Xiaohui Wei, Shang Gao, Chenghao Ren, Tony Q.S. Quek, *2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022
