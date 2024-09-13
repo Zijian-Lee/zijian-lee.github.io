@@ -41,7 +41,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1)<br>
   Zhewen Xu, Xiaohui Wei, Jieyun Hao, Junze Han, Hongliang Li, Changzheng Liu, **Zijian Li**, Dongyuan Tian, Nong Zhang<br>
-  *GeoInformatica*, 2024
+  *GeoInformatica*, 2024<br>
 
 ## Conference Papers:
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588)<br>
