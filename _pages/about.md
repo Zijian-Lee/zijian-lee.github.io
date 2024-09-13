@@ -31,7 +31,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 ## Journal Papers:
 
 - [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
-  `**Zijian Li**`, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
+  **Zijian Li**`, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
   *IEEE Transactions on Mobile Computing (TMC)*, 2024<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **Zijian Li**, Chenghao Ren, Tao Guo, Shang Gao<br>
