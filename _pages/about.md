@@ -62,8 +62,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Intelligent Vehicles
-- IET Software
 - Information Sciences
+- IET Software
+
 
 ## Technical Program Committee Members
 - UIC 2024: Special Session on Intelligent Signal Processing
