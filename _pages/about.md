@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I received the B.S. degree, and the Ph.D. degree in computer science from Jilin University (JLU), Changchun, China, in 2017, and 2023 respectively. I have been a Visiting Student with the Information Systems Technology and Design (ISTD), at the Singapore University of Technology and Design (SUTD) with Prof. Tony Q. S. Quek, in 2022. 
+I received a B.S. degree, and a Ph.D. degree in computer science from Jilin University (JLU), Changchun, China, in 2017, and 2023 respectively. I have been a Visiting Student in the Information Systems Technology and Design (ISTD), at the Singapore University of Technology and Design (SUTD), mentored by Prof. Tony Q. S. Quek, in 2022. I am currently a Postdoctoral Research Fellow at Dalian Maritime University (DMU). My research interests include mobile crowdsensing, federated learning, and edge computing.
 
 My research interest includes mobile crowdsensing, federated learning, and edge computing.
 
@@ -30,7 +30,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 ## Journal Papers:
 
 - [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
-  **Zijian Li**, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
+  __**Zijian Li**__, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
   *IEEE Transactions on Mobile Computing (TMC)*, 2024<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **Zijian Li**, Chenghao Ren, Tao Guo, Shang Gao<br>
