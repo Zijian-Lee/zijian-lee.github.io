@@ -63,6 +63,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - IEEE Transactions on Intelligent Vehicles
 - Information Sciences
 - IET Software
+- ICASSP 2025
 
 
 ## Technical Program Committee Members
