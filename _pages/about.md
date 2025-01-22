@@ -66,6 +66,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - IEEE Transactions on Intelligent Vehicles
 - Information Sciences
 - IET Software
+- China Communications
 - ICASSP 2025
 
 
