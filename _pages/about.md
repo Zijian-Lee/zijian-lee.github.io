@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I received a B.S. degree, and a Ph.D. degree in computer science from Jilin University (JLU), Changchun, China, in 2017, and 2023 respectively. I have been a Visiting Student in the Information Systems Technology and Design (ISTD), at the Singapore University of Technology and Design (SUTD), mentored by Prof. Tony Q.S. Quek, in 2022. I am currently a Postdoctoral Research Fellow at Dalian Maritime University (DMU). My research interests include mobile crowdsensing, federated learning, and edge computing.
+I received a B.S. and a Ph.D. degree in computer science from Jilin University (JLU), Changchun, China, in 2017 and 2023, respectively. My Ph.D advisor is Xiaohui Wei (魏晓辉). I have been a Visiting Student in the Information Systems Technology and Design (ISTD) at the Singapore University of Technology and Design (SUTD), mentored by Prof. Tony Q.S. Quek, in 2022. I am currently a Postdoctoral Research Fellow at Dalian Maritime University (DMU). My research interests include mobile crowdsensing, federated learning, and edge computing.
 
 My research interest includes mobile crowdsensing, federated learning, and edge computing.
 
-# 🔥 News
+
 
 
 # 📝 Publications 
@@ -56,8 +56,11 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
   Xiaohui Wei, Tao Guo, Hongmei Yu, **<u>Zijian Li</u>**, Hao Guo, Xiang Li<br>
   *International Conference on Smart Computing and Communication (SmartCom)*, 2021
 
+# 🔥 Projects
+- China Postdoctoral Science Foundation (No.2024M750295)
 
 # 💻 Services
+
 
 ## Selected Technical Reviewer:
 - IEEE Internet of Things Journal
