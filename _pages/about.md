@@ -22,7 +22,7 @@ I received a B.S. and a Ph.D. degree in computer science from Jilin University (
 
 My research interest includes mobile crowdsensing, federated learning, and edge computing.
 
-
+# 🔥 News
 
 
 # 📝 Publications 
@@ -56,17 +56,17 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
   Xiaohui Wei, Tao Guo, Hongmei Yu, **<u>Zijian Li</u>**, Hao Guo, Xiang Li<br>
   *International Conference on Smart Computing and Communication (SmartCom)*, 2021
 
-# 🔥 Projects
-- China Postdoctoral Science Foundation (No.2024M750295)
+
 
 # 💻 Services
 
 
 ## Selected Technical Reviewer:
-- IEEE Internet of Things Journal
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Intelligent Vehicles
+- IEEE Internet of Things Journal
 - Information Sciences
 - IET Software
 - China Communications
