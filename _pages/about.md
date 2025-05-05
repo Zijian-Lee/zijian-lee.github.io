@@ -24,6 +24,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 🔥 News
 
+- **Aug. 2024:** Our paper accepted by IEEE TMC (CCF A).
 
 # 📝 Publications 
 
