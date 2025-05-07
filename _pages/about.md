@@ -28,7 +28,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 📝 Publications 
 
-<sup>†</sup> is
+<sup>†</sup> denotes co-first authors, and \* denotes the corresponding authors.
 
 ## Journal Papers:
 
