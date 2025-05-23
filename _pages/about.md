@@ -25,6 +25,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 # 🔥 News
 
 - **Aug. 2024:** Our paper accepted by IEEE TMC (CCF A).
+- **May. 2025:** Our paper accepted by DCAN (JCR Q1).
 
 # 📝 Publications 
 
@@ -41,6 +42,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao, Hengshan Yue<br>
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)<br>
+- [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks]()<br>
+  Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  *Digital Communications and Networks (DCAN)*, 2025<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
   Zhewen Xu, Xiaohui Wei, Jieyun Hao, Junze Han, Hongliang Li, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
   *GeoInformatica*, 2024
