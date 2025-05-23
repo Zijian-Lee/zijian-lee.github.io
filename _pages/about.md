@@ -70,6 +70,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 ## Selected Technical Reviewer:
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Audio, Speech and Language Processing
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Intelligent Vehicles
