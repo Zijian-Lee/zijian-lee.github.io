@@ -42,7 +42,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao, Hengshan Yue<br>
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)<br>
-- [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks]()<br>
+- [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)<br>
   Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2025<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
@@ -70,6 +70,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 ## Selected Technical Reviewer:
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Audio, Speech and Language Processing
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Computational Social Systems
@@ -77,6 +78,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - IEEE Internet of Things Journal
 - Information Sciences
 - IET Software
+- Chinese Journal of Electronics
 - China Communications
 - ICASSP 2025
 
