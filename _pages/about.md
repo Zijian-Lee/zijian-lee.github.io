@@ -24,8 +24,10 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 🔥 News
 
-- **Aug. 2024:** Our paper accepted by IEEE TMC (CCF A).
+- **Jun. 2025:** Our paper accepted by PHYSICA A.
 - **May. 2025:** Our paper accepted by DCAN (JCR Q1).
+- **Aug. 2024:** Our paper accepted by IEEE TMC (CCF A).
+
 
 # 📝 Publications 
 
@@ -51,6 +53,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [A Blockchain Multi-Chain Federated Learning Framework for Enhancing Security and Efficiency in Intelligent Unmanned Ports](https://doi.org/10.3390/electronics13244926)<br>
   Zeqiang Xie, **<u>Zijian Li</u>\*** <br>
   *Electronics*, 2024
+- [GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004248?via%3Dihub)<br>
+  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li, Dongyuan Tian, **<u>Zijian Li</u>** <br>
+  *Physica A: Statistical Mechanics and its Applications*, 2025
 
 ## Conference Papers:
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588)<br>
