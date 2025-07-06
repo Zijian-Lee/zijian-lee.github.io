@@ -80,7 +80,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 ## Selected Technical Reviewer:
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Dependable and Secure Computing
+- IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Audio, Speech and Language Processing
+- IEEE Transactions on Consumer Electronics
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Intelligent Vehicles
@@ -93,6 +95,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 
 ## Technical Program Committee Members
+- CCF HPC China 2025: Track of Programming and System
 - UIC 2024: Special Session on Intelligent Signal Processing
 
 ## Journal Editor
