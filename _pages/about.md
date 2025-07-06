@@ -24,6 +24,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 🔥 News
 
+- **Jul. 2025:** Our paper accepted by ACM MM (CCF A).
 - **Jun. 2025:** Our paper accepted by PHYSICA A.
 - **May. 2025:** Our paper accepted by DCAN (JCR Q1).
 - **Aug. 2024:** Our paper accepted by IEEE TMC (CCF A).
@@ -58,6 +59,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
   *Physica A: Statistical Mechanics and its Applications*, 2025
 
 ## Conference Papers:
+- [Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss]()
+  <br>Bingcai Wei, Hui Liu, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Meng<br>
+  *Proceedings of the 33nd ACM International Conference on Multimedia (MM)*, 2025
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588)<br>
   **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei, Shang Gao, Chenghao Ren, Tony Q.S. Quek<br>
   *19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022<br>
