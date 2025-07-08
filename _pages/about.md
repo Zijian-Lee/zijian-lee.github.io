@@ -76,6 +76,15 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 💻 Services
 
+## Conference Organization
+- Web Chair, IEEE BigDataSE 2025
+
+## Technical Program Committee Membership
+- CCF HPC China 2025, Track of Programming and System
+- UIC 2024, Special Session on Intelligent Signal Processing
+
+## Journal Editorship
+- Guest Editor, **Electronics**, 2024-present
 
 ## Selected Technical Reviewer:
 - IEEE Transactions on Mobile Computing
@@ -92,13 +101,3 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - Chinese Journal of Electronics
 - China Communications
 - ICASSP 2025
-
-
-## Technical Program Committee Members
-- CCF HPC China 2025: Track of Programming and System
-- UIC 2024: Special Session on Intelligent Signal Processing
-
-## Journal Editor
-- **Electronics** Guest Editor
-
-
