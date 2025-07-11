@@ -37,39 +37,39 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 ## Journal Papers:
 
 - [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
-  **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek<br>
+  **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei*, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek*<br>
   *IEEE Transactions on Mobile Computing (TMC)*, 2024<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
-  Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao<br>
+  Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao*<br>
   *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor)<br>
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
-  Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao, Hengshan Yue<br>
+  Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao*, Hengshan Yue<br>
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)<br>
 - [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)<br>
   Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2025<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
-  Zhewen Xu, Xiaohui Wei, Jieyun Hao, Junze Han, Hongliang Li, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
+  Zhewen Xu, Xiaohui Wei*, Jieyun Hao, Junze Han, Hongliang Li*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
   *GeoInformatica*, 2024
 - [A Blockchain Multi-Chain Federated Learning Framework for Enhancing Security and Efficiency in Intelligent Unmanned Ports](https://doi.org/10.3390/electronics13244926)<br>
   Zeqiang Xie, **<u>Zijian Li</u>\*** <br>
   *Electronics*, 2024
 - [GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004248?via%3Dihub)<br>
-  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li, Dongyuan Tian, **<u>Zijian Li</u>** <br>
+  Zhewen Xu, Baoxiang Pan, Xiaohui Wei*, Hongliang Li*, Dongyuan Tian, **<u>Zijian Li</u>** <br>
   *Physica A: Statistical Mechanics and its Applications*, 2025
 
 ## Conference Papers:
 - [Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss]()
-  <br>Bingcai Wei, Hui Liu, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Meng<br>
+  <br>Bingcai Wei, Hui Liu*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Meng<br>
   *Proceedings of the 33rd ACM International Conference on Multimedia (MM)*, 2025
 - [HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering](https://ieeexplore.ieee.org/abstract/document/9918588)<br>
-  **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei, Shang Gao, Chenghao Ren, Tony Q.S. Quek<br>
+  **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei*, Shang Gao, Chenghao Ren, Tony Q.S. Quek<br>
   *19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022<br>
 - [CFPA: Cognitive Federated Partial Adaptation for Effective Personalization](https://ieeexplore.ieee.org/document/10566979)<br>
   Xiaohui Wei, Didi Jiao, Shiyu Tong, **<u>Zijian Li</u>\***, Chenghao Ren, Hengshan Yue<br>
   *19th International Conference on Mobility, Sensing and Networking (MSN)*, 2023<br>
 - [AreaTransfer: A Cross-City Crowd Flow Prediction Framework Based on Transfer Learning](https://link.springer.com/chapter/10.1007/978-3-030-97774-0_22)<br>
-  Xiaohui Wei, Tao Guo, Hongmei Yu, **<u>Zijian Li</u>**, Hao Guo, Xiang Li<br>
+  Xiaohui Wei, Tao Guo, Hongmei Yu, **<u>Zijian Li</u>**, Hao Guo, Xiang Li*<br>
   *International Conference on Smart Computing and Communication (SmartCom)*, 2021
 
 
