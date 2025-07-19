@@ -81,7 +81,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 ## Technical Program Committee Membership
 - CCF HPC China 2025, Track of Programming and System
+- VTC2025-Fall, Workshops and Recent Results
 - UIC 2024, Special Session on Intelligent Signal Processing
+
 
 ## Journal Editorship
 - Guest Editor, **Electronics**, 2024-present
