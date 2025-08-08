@@ -54,8 +54,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [A Blockchain Multi-Chain Federated Learning Framework for Enhancing Security and Efficiency in Intelligent Unmanned Ports](https://doi.org/10.3390/electronics13244926)<br>
   Zeqiang Xie, **<u>Zijian Li</u>\*** <br>
   *Electronics*, 2024
-- [SHARP: Blockchain-Powered WSNs for Real-Time Student Health Monitoring and Personalized Learning]
-  (https://www.mdpi.com/1424-8220/25/16/4885)<br>
+- [SHARP: Blockchain-Powered WSNs for Real-Time Student Health Monitoring and Personalized Learning](https://www.mdpi.com/1424-8220/25/16/4885)<br>
   Zeqiang Xie, **<u>Zijian Li</u>\***, Xinbing Liu <br>
   *Sensors*, 2025
 - [GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004248?via%3Dihub)<br>
