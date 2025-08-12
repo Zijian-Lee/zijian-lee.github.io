@@ -92,17 +92,20 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - Guest Editor, **Electronics**, 2024-present
 
 ## Selected Technical Reviewer:
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Audio, Speech and Language Processing
-- IEEE Transactions on Consumer Electronics
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
+- IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Computational Social Systems
-- IEEE Transactions on Intelligent Vehicles
 - IEEE Internet of Things Journal
 - Information Sciences
+- Expert Systems With Applications
 - IET Software
 - Chinese Journal of Electronics
 - China Communications
+- AAAI 2025
 - ICASSP 2025
+
