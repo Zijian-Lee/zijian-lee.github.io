@@ -24,7 +24,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 🔥 News
 
-- **Aug. 2025:** Our paper accepted by NN (CCF A).
+- **Aug. 2025:** Our paper accepted by NN (CCF B).
 - **Jul. 2025:** Our paper accepted by ACM MM (CCF A).
 - **Jun. 2025:** Our paper accepted by PHYSICA A.
 - **May. 2025:** Our paper accepted by DCAN (JCR Q1).
