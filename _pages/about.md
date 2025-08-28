@@ -24,6 +24,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 🔥 News
 
+- **Aug. 2025:** Our paper accepted by NN (CCF A).
 - **Jul. 2025:** Our paper accepted by ACM MM (CCF A).
 - **Jun. 2025:** Our paper accepted by PHYSICA A.
 - **May. 2025:** Our paper accepted by DCAN (JCR Q1).
@@ -39,6 +40,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
   **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei*, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek*<br>
   *IEEE Transactions on Mobile Computing (TMC)*, 2024<br>
+- [Heterogeneity-Aware High-Efficiency Federated Learning with Hybrid Synchronous-Asynchronous Splitting Strategy](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009189)<br>
+  **<u>Zijian Li</u>**, Boyuan Li, Kunyu Zhang, Bingcai Wei, Hongbo Liu*, Zihan Chen*, Xinqiang Xie, Tony Q.S. Quek<br>
+  *Neural Networks (NN)*, 2025<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao*<br>
   *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor)<br>
