@@ -24,6 +24,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 
 # 🔥 News
 
+- **Sep. 2025:** Our paper accepted by CMC.
 - **Aug. 2025:** Our paper accepted by NN (CCF B).
 - **Jul. 2025:** Our paper accepted by ACM MM (CCF A).
 - **Jun. 2025:** Our paper accepted by PHYSICA A.
@@ -53,7 +54,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
   Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2025<br>
 - [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
-  Yuchao Hou SA, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
+  Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
   *CMC-Computers, Materials & Continua*, 2025<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
   Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
