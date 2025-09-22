@@ -52,6 +52,9 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 - [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)<br>
   Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2025<br>
+- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
+  Yuchao Hou SA, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
+  *CMC-Computers, Materials & Continua*, 2025<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
   Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
   *GeoInformatica*, 2024
