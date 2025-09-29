@@ -78,12 +78,12 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao\*, Hengshan Yue<br>
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor, **A1**)<br>
-- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
-  Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
-  *CMC-Computers, Materials & Continua*, 2025<br>
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
   Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
   *GeoInformatica*, 2024 (**CCF B**)
+- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
+  Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
+  *CMC-Computers, Materials & Continua*, 2025<br>
 - [A Blockchain Multi-Chain Federated Learning Framework for Enhancing Security and Efficiency in Intelligent Unmanned Ports](https://doi.org/10.3390/electronics13244926)<br>
   Zeqiang Xie, **<u>Zijian Li</u>\*** <br>
   *Electronics*, 2024
