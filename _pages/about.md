@@ -60,10 +60,18 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN 2025</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Heterogeneity-Aware High-Efficiency Federated Learning with Hybrid Synchronous-Asynchronous Splitting Strategy](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009189)<br>
-  **<u>Zijian Li</u>**, Boyuan Li, Kunyu Zhang, Bingcai Wei, Hongbo Liu\*, Zihan Chen\*, Xinqiang Xie, Tony Q.S. Quek<br>
-  *Neural Networks (NN)*, 2025<br>
+[CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)
+
+Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek
+
+*Digital Communications and Networks (DCAN)*, 2025 (**CIC T1**)
+</div>
+</div>
+
+
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao\*<br>
   *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor)<br>
