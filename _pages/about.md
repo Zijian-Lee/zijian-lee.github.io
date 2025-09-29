@@ -37,7 +37,6 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 <sup>†</sup> denotes co-first authors, and \* denotes the corresponding authors.
 
 ## Journal Papers:
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/tmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +94,6 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   *Physica A: Statistical Mechanics and its Applications*, 2025
 
 ## Conference Papers:
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
