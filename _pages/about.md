@@ -49,7 +49,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/tmc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Heterogeneity-Aware High-Efficiency Federated Learning with Hybrid Synchronous-Asynchronous Splitting Strategy](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009189)
