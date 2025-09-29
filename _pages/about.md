@@ -60,7 +60,7 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN 2025</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN 2025</div><img src='images/DCAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)
@@ -78,9 +78,6 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao\*, Hengshan Yue<br>
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor)<br>
-- [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)<br>
-  Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
-  *Digital Communications and Networks (DCAN)*, 2025<br>
 - [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
   Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
   *CMC-Computers, Materials & Continua*, 2025<br>
@@ -98,6 +95,18 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   *Physica A: Statistical Mechanics and its Applications*, 2025
 
 ## Conference Papers:
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/MM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss]()
+
+Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Meng
+
+*Proceedings of the 33rd ACM International Conference on Multimedia (MM)*, 2025 (**CCF A**)
+</div>
+</div>
+
 - [Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss]()
   <br>Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Meng<br>
   *Proceedings of the 33rd ACM International Conference on Multimedia (MM)*, 2025
