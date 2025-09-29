@@ -49,9 +49,18 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 </div>
 </div>
 
-- [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)<br>
-  **<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei\*, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek\*<br>
-  *IEEE Transactions on Mobile Computing (TMC)*, 2024<br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/tmc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heterogeneity-Aware High-Efficiency Federated Learning with Hybrid Synchronous-Asynchronous Splitting Strategy](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009189)
+
+**<u>Zijian Li</u>**, Boyuan Li, Kunyu Zhang, Bingcai Wei, Hongbo Liu\*, Zihan Chen\*, Xinqiang Xie, Tony Q.S. Quek
+
+*Neural Networks (NN)*, 2025 (**CCF B**)
+</div>
+</div>
+
+
 - [Heterogeneity-Aware High-Efficiency Federated Learning with Hybrid Synchronous-Asynchronous Splitting Strategy](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009189)<br>
   **<u>Zijian Li</u>**, Boyuan Li, Kunyu Zhang, Bingcai Wei, Hongbo Liu\*, Zihan Chen\*, Xinqiang Xie, Tony Q.S. Quek<br>
   *Neural Networks (NN)*, 2025<br>
