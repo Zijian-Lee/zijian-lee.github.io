@@ -67,7 +67,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 Haoquan Wang, Boyuan Li, Panpan Chen, Libing Wu\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek
 
-*IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1 TOP**)
+*IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)
 </div>
 </div>
 
