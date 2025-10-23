@@ -65,6 +65,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 [LBKD: Rethinking Federated Backdoors for Low-Altitude Economy via LLMs and Bidirectional Knowledge Distillation]()
 Haoquan Wang, Boyuan Li, Panpan Chen, Libing Wu\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek
+
 *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1 TOP**)
 </div>
 </div>
@@ -146,11 +147,14 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Dependable and Secure Computing
+- IEEE Transactions on Information Forensics \& Security
 - IEEE Journal on Selected Areas in Communications
+- IEEE Transactions on Parallel and Distributed Systems
 - IEEE Transactions on Audio, Speech and Language Processing
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Computational Social Systems
+- IEEE Transactions on Consumer Electronics
 - IEEE Internet of Things Journal
 - Information Sciences
 - Knowledge-Based Systems
