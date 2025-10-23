@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I received a B.S. and a Ph.D. degree in computer science from Jilin University (JLU), Changchun, China, in 2017 and 2023, respectively. My Ph.D advisor is [Prof. Xiaohui Wei](https://ccst.jlu.edu.cn/info/1367/19686.htm). I have been a Visiting Student in the Information Systems Technology and Design (ISTD) at the Singapore University of Technology and Design (SUTD), mentored by [Prof. Tony Q.S. Quek](https://people.sutd.edu.sg/~tonyquek/), in 2022. I am currently a Postdoctoral Research Fellow at Dalian Maritime University (DMU), collaborating with [Prof. Hongbo Liu](https://www.scholat.com/liuhongbo).
+I received a B.S. and a Ph.D. degree in computer science from Jilin University (JLU), Changchun, China, in 2017 and 2023, respectively. My Ph.D advisor is [Prof. Xiaohui Wei](https://ccst.jlu.edu.cn/info/1367/19686.htm). I have been a Visiting Student in the Information Systems Technology and Design (ISTD) at the Singapore University of Technology and Design (SUTD), mentored by [Prof. Tony Q.S. Quek](https://people.sutd.edu.sg/~tonyquek/), in 2022. I have been a postdoctoral research fellow with Dalian Maritime University (DMU), Dalian, China, from 2023 to 2025, collaborating with [Prof. Hongbo Liu](https://www.scholat.com/liuhongbo). Currently, I am a lecturer with the College of Artificial Intelligence, Dalian Maritime University.
 
-My research interest includes mobile crowdsensing, federated learning, and edge computing.
+My research interest includes edge intelligence, federated learning, distributed computing, and crowdsensing.
 
 # 🔥 News
 
+- 🎉**Oct. 2025:** Our paper accepted by TNSE.
 - 🎉**Sep. 2025:** Our paper accepted by CMC.
 - 🎉**Aug. 2025:** Our paper accepted by NN (CCF B).
 - 🎉**Jul. 2025:** Our paper accepted by ACM MM (CCF A).
@@ -56,6 +57,15 @@ My research interest includes mobile crowdsensing, federated learning, and edge 
 **<u>Zijian Li</u>**, Boyuan Li, Kunyu Zhang, Bingcai Wei, Hongbo Liu\*, Zihan Chen\*, Xinqiang Xie, Tony Q.S. Quek
 
 *Neural Networks (NN)*, 2025 (**CCF B**)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/tnse.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LBKD: Rethinking Federated Backdoors for Low-Altitude Economy via LLMs and Bidirectional Knowledge Distillation]()
+Haoquan Wang, Boyuan Li, Panpan Chen, Libing Wu\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek
+*IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1 TOP**)
 </div>
 </div>
 
