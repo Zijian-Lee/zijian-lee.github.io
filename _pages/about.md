@@ -60,7 +60,7 @@ My research interest includes edge intelligence, federated learning, distributed
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/tnse.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSE 2025</div><img src='images/tnse.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LBKD: Rethinking Federated Backdoors for Low-Altitude Economy via LLMs and Bidirectional Knowledge Distillation]()
