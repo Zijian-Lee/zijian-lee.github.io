@@ -43,7 +43,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 [Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/document/10645291)
 
-**<u>Zijian Li</u>**, Zihan Chen, Xiaohui Wei\*, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek\*
+**<u>Zijian Li</u>**, <strong>Zihan Chen</strong>, Xiaohui Wei\*, Shang Gao, Hengshan Yue, Zhewen Xu, Tony Q.S. Quek\*
 
 *IEEE Transactions on Mobile Computing (TMC)*, 2024 (**CCF A**)
 </div>
