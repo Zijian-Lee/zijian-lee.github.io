@@ -64,6 +64,7 @@ My research interest includes edge intelligence, federated learning, distributed
 <div class='paper-box-text' markdown="1">
 
 [LBKD: Rethinking Federated Backdoors for Low-Altitude Economy via LLMs and Bidirectional Knowledge Distillation]()
+
 Haoquan Wang, Boyuan Li, Panpan Chen, Libing Wu\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek
 
 *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1 TOP**)
