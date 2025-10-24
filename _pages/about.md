@@ -148,7 +148,7 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Dependable and Secure Computing
-- IEEE Transactions on Information Forensics \& Security
+- IEEE Transactions on Information Forensics & Security
 - IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Parallel and Distributed Systems
 - IEEE Transactions on Audio, Speech and Language Processing
