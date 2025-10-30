@@ -74,7 +74,7 @@ Haoquan Wang, Boyuan Li, Panpan Chen, Libing Wu\*, **<u>Zijian Li</u>\***, Tony 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN 2025</div><img src='images/DCAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)
+[CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://ieeexplore.ieee.org/document/11219205)
 
 Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek
 
