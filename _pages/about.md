@@ -24,6 +24,8 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Nov. 2025:** Our paper accepted by IotJ.
+- 🎉**Nov. 2025:** Our paper accepted by Computers & Geosciences.
 - 🎉**Oct. 2025:** Our paper accepted by TNSE.
 - 🎉**Sep. 2025:** Our paper accepted by CMC.
 - 🎉**Aug. 2025:** Our paper accepted by NN (CCF B).
@@ -82,7 +84,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
-
+- [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework]()<br>
+  Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1 TOP**)<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao\*<br>
   *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor, **A1 TOP**)<br>
@@ -92,6 +96,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
   Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
   *GeoInformatica*, 2024 (**CCF B**)
+- [HiHa: Introducing hierarchical harmonic decomposition to implicit neural compression for atmospheric data](https://www.sciencedirect.com/science/article/pii/S0098300425002286?dgcid=coauthor) <br>
+  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li\*, Dongyuan Tian, **Zijian Li**, Changzheng Liu <br>
+  *Computers & Geosciences*, 2025
 - [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
   Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
   *CMC-Computers, Materials & Continua*, 2025<br>
