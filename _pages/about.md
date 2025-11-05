@@ -86,7 +86,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 
 - [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework]()<br>
   Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
-  *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1 TOP**)<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1**)<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao\*<br>
   *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor, **A1 TOP**)<br>
@@ -98,7 +98,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   *GeoInformatica*, 2024 (**CCF B**)
 - [HiHa: Introducing hierarchical harmonic decomposition to implicit neural compression for atmospheric data](https://www.sciencedirect.com/science/article/pii/S0098300425002286?dgcid=coauthor) <br>
   Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li\*, Dongyuan Tian, **Zijian Li**, Changzheng Liu <br>
-  *Computers & Geosciences*, 2025
+  *Computers & Geosciences*, 2025 (**Q1**)
 - [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
   Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
   *CMC-Computers, Materials & Continua*, 2025<br>
@@ -132,7 +132,7 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
   *19th International Conference on Mobility, Sensing and Networking (MSN)*, 2023 (**CCF C**)<br>
 - [AreaTransfer: A Cross-City Crowd Flow Prediction Framework Based on Transfer Learning](https://link.springer.com/chapter/10.1007/978-3-030-97774-0_22)<br>
   Xiaohui Wei, Tao Guo, Hongmei Yu, **<u>Zijian Li</u>**, Hao Guo, Xiang Li\*<br>
-  *International Conference on Smart Computing and Communication (SmartCom)*, 2021
+  *International Conference on Smart Computing and Communication (SmartCom)*, 2021 (**Best Paper**)
 
 
 
