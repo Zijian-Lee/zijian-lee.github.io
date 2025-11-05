@@ -97,7 +97,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
   *GeoInformatica*, 2024 (**CCF B**)
 - [HiHa: Introducing hierarchical harmonic decomposition to implicit neural compression for atmospheric data](https://www.sciencedirect.com/science/article/pii/S0098300425002286?dgcid=coauthor) <br>
-  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li\*, Dongyuan Tian, **Zijian Li**, Changzheng Liu <br>
+  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li\*, Dongyuan Tian, **<u>Zijian Li</u>**, Changzheng Liu <br>
   *Computers & Geosciences*, 2025 (**Q1**)
 - [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
   Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
