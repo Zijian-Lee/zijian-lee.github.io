@@ -84,7 +84,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
-- [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework]()<br>
+- [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework](https://ieeexplore.ieee.org/document/11232467)<br>
   Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1**)<br>
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
