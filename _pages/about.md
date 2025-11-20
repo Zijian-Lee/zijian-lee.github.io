@@ -24,6 +24,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Nov. 2025:** Our paper accepted by IEEE TMC (CCF A).
 - 🎉**Nov. 2025:** Our paper accepted by IotJ.
 - 🎉**Nov. 2025:** Our paper accepted by Computers & Geosciences.
 - 🎉**Oct. 2025:** Our paper accepted by TNSE.
@@ -40,6 +41,17 @@ My research interest includes edge intelligence, federated learning, distributed
 <sup>†</sup> denotes co-first authors, and \* denotes the corresponding authors.
 
 ## Journal Papers:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/TMC25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning]()
+
+Boyuan Li<sup>†</sup>, **<u>Zijian Li</u><sup>†</sup>**, Yafei Li\*, Mingliang Xu\*, Shengbo Chen, Cong Shen, Tony Q.S. Quek
+
+*IEEE Transactions on Mobile Computing (TMC)*, 2025 (**CCF A**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/tmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
