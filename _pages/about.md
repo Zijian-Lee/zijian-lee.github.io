@@ -24,6 +24,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Nov. 2025:** Our paper accepted by TNSE.
 - 🎉**Nov. 2025:** Our paper accepted by IEEE TMC (CCF A).
 - 🎉**Nov. 2025:** Our paper accepted by IotJ.
 - 🎉**Nov. 2025:** Our paper accepted by Computers & Geosciences.
@@ -96,6 +97,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
+- [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness]()<br>
+  Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1**)<br>
 - [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework](https://ieeexplore.ieee.org/document/11232467)<br>
   Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1**)<br>
