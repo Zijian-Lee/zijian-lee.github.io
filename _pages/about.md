@@ -45,7 +45,7 @@ My research interest includes edge intelligence, federated learning, distributed
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/TMC25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning]()
+[A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning](https://ieeexplore.ieee.org/document/11265807/)
 
 Boyuan Li<sup>†</sup>, **<u>Zijian Li</u><sup>†</sup>**, Yafei Li\*, Mingliang Xu\*, Shengbo Chen, Cong Shen, Tony Q.S. Quek
 
@@ -97,36 +97,42 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
-- [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness]()<br>
+- [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
   Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
 - [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework](https://ieeexplore.ieee.org/document/11232467)<br>
   Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1**)<br>
+- [FedC-DAC: A Federated Clustering with Dynamic Aggregation and Calibration Method for SAR Image Target Recognition](https://ieeexplore.ieee.org/document/11319180)<br>
+  Yuchao Hou, Shuai Zhao, Xiaoyu Xia, Minghui Liwang, **<u>Zijian Li</u>**, Nan Xu, Di Wu, Youliang Tian, Tony Q.S. Quek <br>
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*, 2025 (**Q1**)<br>
+- [HiHa: Introducing hierarchical harmonic decomposition to implicit neural compression for atmospheric data](https://www.sciencedirect.com/science/article/pii/S0098300425002286?dgcid=coauthor) <br>
+  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li\*, Dongyuan Tian, **<u>Zijian Li</u>**, Changzheng Liu <br>
+  *Computers & Geosciences*, 2025 (**Q1**)
+- [GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004248?via%3Dihub)<br>
+  Zhewen Xu, Baoxiang Pan, Xiaohui Wei\*, Hongliang Li\*, Dongyuan Tian, **<u>Zijian Li</u>** <br>
+  *Physica A: Statistical Mechanics and its Applications*, 2025
+- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
+  Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
+  *CMC-Computers, Materials & Continua*, 2025<br>
+- [SHARP: Blockchain-Powered WSNs for Real-Time Student Health Monitoring and Personalized Learning](https://www.mdpi.com/1424-8220/25/16/4885)<br>
+  Zeqiang Xie, **<u>Zijian Li</u>\***, Xinbing Liu <br>
+  *Sensors*, 2025
+- [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
+  Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
+  *GeoInformatica*, 2024 (**CCF B**)
+- [A Blockchain Multi-Chain Federated Learning Framework for Enhancing Security and Efficiency in Intelligent Unmanned Ports](https://doi.org/10.3390/electronics13244926)<br>
+  Zeqiang Xie, **<u>Zijian Li</u>\*** <br>
+  *Electronics*, 2024
 - [HSM-SMCS: Task Assignment Based on Hybrid Sensing Modes in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9711556)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Chenghao Ren, Tao Guo, Shang Gao\*<br>
   *IEEE Internet of Things Journal (IotJ)*, 2022 (First author is supervisor, **A1 TOP**)<br>
 - [SDLSC-TA: Subarea Division Learning Based Task Allocation in Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9296817)<br>
   Xiaohui Wei, **<u>Zijian Li</u>**, Yuanyuan Liu, Shang Gao\*, Hengshan Yue<br>
   *IEEE Transactions on Emerging Topics in Computing (TETC)*, 2021 (First author is supervisor, **A1**)<br>
-- [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1) <br>
-  Zhewen Xu, Xiaohui Wei\*, Jieyun Hao, Junze Han, Hongliang Li\*, Changzheng Liu, **<u>Zijian Li</u>**, Dongyuan Tian, Nong Zhang <br>
-  *GeoInformatica*, 2024 (**CCF B**)
-- [HiHa: Introducing hierarchical harmonic decomposition to implicit neural compression for atmospheric data](https://www.sciencedirect.com/science/article/pii/S0098300425002286?dgcid=coauthor) <br>
-  Zhewen Xu, Baoxiang Pan, Xiaohui Wei, Hongliang Li\*, Dongyuan Tian, **<u>Zijian Li</u>**, Changzheng Liu <br>
-  *Computers & Geosciences*, 2025 (**Q1**)
-- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
-  Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
-  *CMC-Computers, Materials & Continua*, 2025<br>
-- [A Blockchain Multi-Chain Federated Learning Framework for Enhancing Security and Efficiency in Intelligent Unmanned Ports](https://doi.org/10.3390/electronics13244926)<br>
-  Zeqiang Xie, **<u>Zijian Li</u>\*** <br>
-  *Electronics*, 2024
-- [SHARP: Blockchain-Powered WSNs for Real-Time Student Health Monitoring and Personalized Learning](https://www.mdpi.com/1424-8220/25/16/4885)<br>
-  Zeqiang Xie, **<u>Zijian Li</u>\***, Xinbing Liu <br>
-  *Sensors*, 2025
-- [GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004248?via%3Dihub)<br>
-  Zhewen Xu, Baoxiang Pan, Xiaohui Wei\*, Hongliang Li\*, Dongyuan Tian, **<u>Zijian Li</u>** <br>
-  *Physica A: Statistical Mechanics and its Applications*, 2025
+
+
+
 
 ## Conference Papers:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/MM.png' alt="sym" width="100%"></div></div>
