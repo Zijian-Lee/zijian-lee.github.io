@@ -112,7 +112,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004248?via%3Dihub)<br>
   Zhewen Xu, Baoxiang Pan, Xiaohui Wei\*, Hongliang Li\*, Dongyuan Tian, **<u>Zijian Li</u>** <br>
   *Physica A: Statistical Mechanics and its Applications*, 2025
-- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification]()<br>
+- [Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification](https://www.sciencedirect.com/org/science/article/pii/S1546221825012536)<br>
   Yuchao Hou, Biaobiao Bai, Shuai Zhao, Yue Wang, Jie Wang, **<u>Zijian Li</u>\*** <br>
   *CMC-Computers, Materials & Continua*, 2025<br>
 - [SHARP: Blockchain-Powered WSNs for Real-Time Student Health Monitoring and Personalized Learning](https://www.mdpi.com/1424-8220/25/16/4885)<br>
@@ -138,7 +138,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='images/MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss]()
+[Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss](https://dl.acm.org/doi/10.1145/3746027.3755669)
 
 Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Meng
 
