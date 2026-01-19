@@ -24,11 +24,12 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
-- 🎉**Nov. 2025:** Our paper accepted by TNSE.
+- 🎉**Jan. 2026:** Our paper accepted by TWC (CCF B).
+- 🎉**Nov. 2025:** Our paper accepted by TNSE (A1).
 - 🎉**Nov. 2025:** Our paper accepted by IEEE TMC (CCF A).
-- 🎉**Nov. 2025:** Our paper accepted by IotJ.
+- 🎉**Nov. 2025:** Our paper accepted by IotJ (A1).
 - 🎉**Nov. 2025:** Our paper accepted by Computers & Geosciences.
-- 🎉**Oct. 2025:** Our paper accepted by TNSE.
+- 🎉**Oct. 2025:** Our paper accepted by TNSE (A1).
 - 🎉**Sep. 2025:** Our paper accepted by CMC.
 - 🎉**Aug. 2025:** Our paper accepted by NN (CCF B).
 - 🎉**Jul. 2025:** Our paper accepted by ACM MM (CCF A).
@@ -97,6 +98,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
+- [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks]()<br>
+  Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
+  *IEEE Transactions on Wireless Communications (TWC)*, 2025 (**A1**)<br>
 - [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
   Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
