@@ -24,18 +24,18 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
-- 🎉**Jan. 2026:** Our paper accepted by TWC (CCF B).
-- 🎉**Nov. 2025:** Our paper accepted by TNSE (A1).
-- 🎉**Nov. 2025:** Our paper accepted by IEEE TMC (CCF A).
-- 🎉**Nov. 2025:** Our paper accepted by IotJ (A1).
-- 🎉**Nov. 2025:** Our paper accepted by Computers & Geosciences.
-- 🎉**Oct. 2025:** Our paper accepted by TNSE (A1).
-- 🎉**Sep. 2025:** Our paper accepted by CMC.
-- 🎉**Aug. 2025:** Our paper accepted by NN (CCF B).
-- 🎉**Jul. 2025:** Our paper accepted by ACM MM (CCF A).
-- 🎉**Jun. 2025:** Our paper accepted by PHYSICA A.
-- 🎉**May. 2025:** Our paper accepted by DCAN (CIC T1).
-- 🎉**Aug. 2024:** Our paper accepted by IEEE TMC (CCF A).
+- 🎉**Jan. 2026:** Our paper "Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks" has been accepted by TWC (CCF B).
+- 🎉**Nov. 2025:** Our paper "Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness" has been accepted by TNSE (A1).
+- 🎉**Nov. 2025:** Our paper "A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning" has been accepted by IEEE TMC (CCF A).
+- 🎉**Nov. 2025:** Our paper "Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework" has been accepted by IotJ (A1).
+- 🎉**Nov. 2025:** Our paper "HiHa: Introducing hierarchical harmonic decomposition to implicit neural compression for atmospheric data" has been accepted by Computers & Geosciences.
+- 🎉**Oct. 2025:** Our paper "LBKD: Rethinking Federated Backdoors for Low-Altitude Economy via LLMs and Bidirectional Knowledge Distillation" has been accepted by TNSE (A1).
+- 🎉**Sep. 2025:** Our paper "Federated Dynamic Aggregation Selection Strategy-based Multi-Receptive Field Fusion Classification Framework for Point Cloud Classification" has been accepted by CMC.
+- 🎉**Aug. 2025:** Our paper "Heterogeneity-Aware High-Efficiency Federated Learning with Hybrid Synchronous-Asynchronous Splitting Strategy" has been accepted by NN (CCF B).
+- 🎉**Jul. 2025:** Our paper "Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss" has been accepted by ACM MM (CCF A).
+- 🎉**Jun. 2025:** Our paper "GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting" has been accepted by PHYSICA A.
+- 🎉**May. 2025:** Our paper "CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks" has been accepted by DCAN (CIC T1).
+- 🎉**Aug. 2024:** Our paper "Exploiting Complex Network-based Clustering for Personalization-Enhanced Hierarchical Federated Edge Learning" has been accepted by IEEE TMC (CCF A).
 
 
 # 📝 Publications 
