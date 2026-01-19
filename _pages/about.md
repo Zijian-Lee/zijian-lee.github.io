@@ -100,7 +100,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 
 - [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks]()<br>
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
-  *IEEE Transactions on Wireless Communications (TWC)*, 2025 (**A1**)<br>
+  *IEEE Transactions on Wireless Communications (TWC)*, 2025 (**CCF B**)<br>
 - [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
   Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
