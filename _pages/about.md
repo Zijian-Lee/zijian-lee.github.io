@@ -98,7 +98,13 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
-- [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks]()<br>
+- [A Quantization Strategy for Federated Learning in Agricultural Internet of Things Devices](https://www.sciencedirect.com/science/article/abs/pii/S2542660526000314)<br>
+  Jing Liu, Boyuan Li, Cui Liu, Shengbo Chen\*, **<u>Zijian Li</u>\***, Wenying Chen<br>
+  *Internet of Things*, 2026 (**A1**)<br>
+- [Privacy-preserving federated SAR image target recognition with adaptive resource management in space-air-ground integrated networks](https://www.sciencedirect.com/science/article/pii/S0031320326002189)<br>
+  Yuchao Hou, Bo Yu, Zhiqin Yang, Jie Wang, Wei Xiang, Di Wu, Minghui Liwang, Xiaoyu Xia, Zijian Li, Youliang Tian, Yuzhou Sun<br>
+  *Pattern Recognition*, 2026 (**CCF B**)<br>
+- [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11368712)<br>
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
   *IEEE Transactions on Wireless Communications (TWC)*, 2025 (**CCF B**)<br>
 - [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
