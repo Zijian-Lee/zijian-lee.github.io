@@ -102,7 +102,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   Jing Liu, Boyuan Li, Cui Liu, Shengbo Chen\*, **<u>Zijian Li</u>\***, Wenying Chen<br>
   *Internet of Things*, 2026 (**A1**)<br>
 - [Privacy-preserving federated SAR image target recognition with adaptive resource management in space-air-ground integrated networks](https://www.sciencedirect.com/science/article/pii/S0031320326002189)<br>
-  Yuchao Hou, Bo Yu, Zhiqin Yang, Jie Wang, Wei Xiang, Di Wu, Minghui Liwang, Xiaoyu Xia, Zijian Li, Youliang Tian, Yuzhou Sun<br>
+  Yuchao Hou, Bo Yu, Zhiqin Yang, Jie Wang, Wei Xiang, Di Wu, Minghui Liwang, Xiaoyu Xia, **<u>Zijian Li</u>**, Youliang Tian, Yuzhou Sun<br>
   *Pattern Recognition*, 2026 (**CCF B**)<br>
 - [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11368712)<br>
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
