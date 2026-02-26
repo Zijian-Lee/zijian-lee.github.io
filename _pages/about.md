@@ -104,7 +104,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
   *IEEE Transactions on Wireless Communications (TWC)*, 2026 (**CCF B**)<br>
 - [Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data]()<br>
-  Yi Zhang, Chao Zhang, **<u>Zijian Li</u>\***, Tianxiang Xu, Kunyu Zhang, Zhan Gao, Meinuo Li, Xiaohan Zhang, Qichao Qi, Bing Chen<br>
+  Yi Zhang, Chao Zhang, **<u>Zijian Li</u>**, Tianxiang Xu, Kunyu Zhang, Zhan Gao, Meinuo Li, Xiaohan Zhang, Qichao Qi, Bing Chen<br>
   *IEEE Transactions on Consumer Electronics (TCE)*, 2026 (**A1**)<br>
 - [A Quantization Strategy for Federated Learning in Agricultural Internet of Things Devices](https://www.sciencedirect.com/science/article/abs/pii/S2542660526000314)<br>
   Jing Liu, Boyuan Li, Cui Liu, Shengbo Chen\*, **<u>Zijian Li</u>\***, Wenying Chen<br>
