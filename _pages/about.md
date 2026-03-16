@@ -24,6 +24,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Mar. 2026:** Our paper "Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention" has been accepted by CN (CCF B).
 - 🎉**Feb. 2026:** Our paper "Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data" has been accepted by IEEE TCE (A1).
 - 🎉**Jan. 2026:** Our paper "Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks" has been accepted by IEEE TWC (CCF B).
 - 🎉**Nov. 2025:** Our paper "Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness" has been accepted by IEEE TNSE (A1).
@@ -77,6 +78,18 @@ Boyuan Li<sup>†</sup>, **<u>Zijian Li</u><sup>†</sup>**, Yafei Li\*, Minglia
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CN 2026</div><img src='images/CN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention](https://www.sciencedirect.com/science/article/abs/pii/S1389128626002331)
+
+Runze Ma, **<u>Zijian Li</u>\***, Xianshi Su, Munan Li, Tony Q.S. Quek
+
+*Computer Networks (CN)*, 2026 (**CCF B**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSE 2025</div><img src='images/tnse.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,7 +116,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11368712)<br>
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
   *IEEE Transactions on Wireless Communications (TWC)*, 2026 (**CCF B**)<br>
-- [Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data]()<br>
+- [Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data](https://ieeexplore.ieee.org/abstract/document/11421425/)<br>
   Yi Zhang, Chao Zhang, **<u>Zijian Li</u>**, Tianxiang Xu, Kunyu Zhang, Zhan Gao, Meinuo Li, Xiaohan Zhang, Qichao Qi, Bing Chen<br>
   *IEEE Transactions on Consumer Electronics (TCE)*, 2026 (**A1**)<br>
 - [A Quantization Strategy for Federated Learning in Agricultural Internet of Things Devices](https://www.sciencedirect.com/science/article/abs/pii/S2542660526000314)<br>
