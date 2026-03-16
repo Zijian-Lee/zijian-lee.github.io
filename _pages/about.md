@@ -22,6 +22,7 @@ I received a B.S. and a Ph.D. degree in computer science from Jilin University (
 
 My research interest includes edge intelligence, federated learning, distributed computing, and crowdsensing.
 
+
 # 🔥 News
 
 - 🎉**Mar. 2026:** Our paper "Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention" has been accepted by CN (CCF B).
