@@ -26,6 +26,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Apr. 2026:** Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" has been accepted by TACO (CCF A).
 - 🎉**Mar. 2026:** Our paper "Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention" has been accepted by CN (CCF B).
 - 🎉**Feb. 2026:** Our paper "Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data" has been accepted by IEEE TCE (A1).
 - 🎉**Jan. 2026:** Our paper "Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks" has been accepted by IEEE TWC (CCF B).
@@ -115,7 +116,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
-
+- [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
+  Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
+  *ACM Transactions on Architecture and Code Optimization (TACO)*, 2026 (**CCF A**)<br>
 - [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11368712)<br>
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
   *IEEE Transactions on Wireless Communications (TWC)*, 2026 (**CCF B**)<br>
