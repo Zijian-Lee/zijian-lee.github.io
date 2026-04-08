@@ -55,7 +55,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 [Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks]()
 
-Baofeng Ji, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
+Baofeng Ji\*, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
 
 *IEEE Transactions on Mobile Computing (TMC)*, 2026 (**CCF A**)
 </div>
