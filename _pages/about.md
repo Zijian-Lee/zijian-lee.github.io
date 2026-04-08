@@ -26,6 +26,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Apr. 2026:** Our paper "Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks" has been accepted by TMC (CCF A).
 - 🎉**Apr. 2026:** Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" has been accepted by TACO (CCF A).
 - 🎉**Mar. 2026:** Our paper "Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention" has been accepted by CN (CCF B).
 - 🎉**Feb. 2026:** Our paper "Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data" has been accepted by IEEE TCE (A1).
@@ -48,6 +49,17 @@ My research interest includes edge intelligence, federated learning, distributed
 <sup>†</sup> denotes co-first authors, and \* denotes the corresponding authors.
 
 ## Journal Papers:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/TMC26.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks]()
+
+Baofeng Ji, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
+
+*IEEE Transactions on Mobile Computing (TMC)*, 2026 (**CCF A**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/TMC25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
