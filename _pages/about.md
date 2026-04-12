@@ -218,8 +218,8 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 
 
 ## Journal Editorship
-- Guest Editor, **CCF Transactions on Pervasive Computing and Interaction (CCF B)**, 2026
-- Guest Editor, **Electronics**, 2024-2026
+- Guest Editor, **CCF Transactions on Pervasive Computing and Interaction (CCF B)**, Special Issue on "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)"
+- Guest Editor, **Electronics**, Special Issue on "[Empowering IoT with AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)"
 
 ## Selected Technical Reviewer:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
