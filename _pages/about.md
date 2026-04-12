@@ -27,7 +27,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
-- 🎉**Apr. 2026:** We will organize a Special Issue "Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum" in CCF TPCI (CCF B), welcome to submit papers!
+- 🎉**Apr. 2026:** We will organize a Special Issue "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)" in CCF TPCI (CCF B), welcome to submit papers!
 - 🎉**Apr. 2026:** Our paper "Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks" has been accepted by TMC (CCF A).
 - 🎉**Apr. 2026:** Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" has been accepted by TACO (CCF A).
 - 🎉**Mar. 2026:** Our paper "Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention" has been accepted by CN (CCF B).
