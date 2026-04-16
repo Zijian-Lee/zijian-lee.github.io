@@ -132,7 +132,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 
 - [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation]()<br>
-  Baofeng Ji\∗, Wenjuan Chai, Kaipeng Sun, Boyuan Li\∗, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  Baofeng Ji\*, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1**)<br>
 - [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
   Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
