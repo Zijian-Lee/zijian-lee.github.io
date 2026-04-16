@@ -27,8 +27,9 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
-- 🎉**Apr. 2026:** Our paper "RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation" has been accepted by IotJ (A1).
 - 🎉**Apr. 2026:** We will organize a Special Issue "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)" in CCF TPCI (CCF B), welcome to submit papers!
+- 🎉**May. 2026:** Our paper "NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks" DCAN (CIC T1).
+- 🎉**Apr. 2026:** Our paper "RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation" has been accepted by IotJ (A1).
 - 🎉**Apr. 2026:** Our paper "Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks" has been accepted by TMC (CCF A).
 - 🎉**Apr. 2026:** Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" has been accepted by TACO (CCF A).
 - 🎉**Mar. 2026:** Our paper "Intrusion Detection for Low-Altitude Wireless Networks: Diffusion-enhanced Spatiotemporal Graph Network with Dual Self-attention" has been accepted by CN (CCF B).
@@ -131,9 +132,12 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
+- [NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks]()<br>
+  Naiyao Wang, Xirong Fu, Changdong Zhou, Houhua Shao, Jiahui Li, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  *Digital Communications and Networks (DCAN)*, 2026 (**CIC T1**)<br>
 - [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation]()<br>
   Baofeng Ji, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
-  *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1**)<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
 - [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
   Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
   *ACM Transactions on Architecture and Code Optimization (TACO)*, 2026 (**CCF A**)<br>
@@ -142,10 +146,10 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   *IEEE Transactions on Wireless Communications (TWC)*, 2026 (**CCF B**)<br>
 - [Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data](https://ieeexplore.ieee.org/abstract/document/11421425/)<br>
   Yi Zhang, Chao Zhang, **<u>Zijian Li</u>**, Tianxiang Xu, Kunyu Zhang, Zhan Gao, Meinuo Li, Xiaohan Zhang, Qichao Qi, Bing Chen<br>
-  *IEEE Transactions on Consumer Electronics (TCE)*, 2026 (**A1**)<br>
+  *IEEE Transactions on Consumer Electronics (TCE)*, 2026 (**A1 TOP**)<br>
 - [A Quantization Strategy for Federated Learning in Agricultural Internet of Things Devices](https://www.sciencedirect.com/science/article/abs/pii/S2542660526000314)<br>
   Jing Liu, Boyuan Li, Cui Liu, Shengbo Chen\*, **<u>Zijian Li</u>\***, Wenying Chen<br>
-  *Internet of Things*, 2026 (**A1**)<br>
+  *Internet of Things*, 2026 (**Q1**)<br>
 - [Privacy-preserving federated SAR image target recognition with adaptive resource management in space-air-ground integrated networks](https://www.sciencedirect.com/science/article/pii/S0031320326002189)<br>
   Yuchao Hou, Bo Yu, Zhiqin Yang, Jie Wang, Wei Xiang, Di Wu, Minghui Liwang, Xiaoyu Xia, **<u>Zijian Li</u>**, Youliang Tian, Yuzhou Sun<br>
   *Pattern Recognition*, 2026 (**CCF B**)<br>
@@ -154,7 +158,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
 - [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework](https://ieeexplore.ieee.org/document/11232467)<br>
   Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
-  *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1**)<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1 TOP**)<br>
 - [FedC-DAC: A Federated Clustering with Dynamic Aggregation and Calibration Method for SAR Image Target Recognition](https://ieeexplore.ieee.org/document/11319180)<br>
   Yuchao Hou, Shuai Zhao, Xiaoyu Xia, Minghui Liwang, **<u>Zijian Li</u>**, Nan Xu, Di Wu, Youliang Tian, Tony Q.S. Quek <br>
   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*, 2025 (**Q1**)<br>
