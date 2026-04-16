@@ -27,6 +27,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Apr. 2026:** Our paper "RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation" has been accepted by IotJ (A1).
 - 🎉**Apr. 2026:** We will organize a Special Issue "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)" in CCF TPCI (CCF B), welcome to submit papers!
 - 🎉**Apr. 2026:** Our paper "Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks" has been accepted by TMC (CCF A).
 - 🎉**Apr. 2026:** Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" has been accepted by TACO (CCF A).
@@ -130,6 +131,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div>
 
+- [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation]()<br>
+  Baofeng Ji\∗, Wenjuan Chai, Kaipeng Sun, Boyuan Li\∗, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1**)<br>
 - [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
   Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
   *ACM Transactions on Architecture and Code Optimization (TACO)*, 2026 (**CCF A**)<br>
