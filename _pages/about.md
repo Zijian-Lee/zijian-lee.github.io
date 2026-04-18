@@ -58,7 +58,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 [Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks]()
 
-Baofeng Ji, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
+Baofeng Ji\*, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
 
 *IEEE Transactions on Mobile Computing (TMC)*, 2026 (**CCF A**)
 </div>
@@ -136,7 +136,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   Naiyao Wang, Xirong Fu, Changdong Zhou, Houhua Shao, Jiahui Li, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2026 (**CIC T1**)<br>
 - [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation]()<br>
-  Baofeng Ji, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  Baofeng Ji\*, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
 - [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
   Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
