@@ -27,8 +27,11 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+
+- 🎉**May. 2026:** Our paper "AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition" has been accepted by IEEE TMC (CCF A).
+- 🎉**May. 2026:** Our paper "NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks" has been accepted by DCAN (CIC T1).
 - 🎉**Apr. 2026:** We will organize a Special Issue "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)" in CCF TPCI (CCF B), welcome to submit papers!
-- 🎉**May. 2026:** Our paper "NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks" DCAN (CIC T1).
+- 🎉**Apr. 2026:** Our paper "FedTDC: Federated teacher-guided distillation with representation and aggregation calibration" has been accepted by KBS (A1).
 - 🎉**Apr. 2026:** Our paper "RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation" has been accepted by IotJ (A1).
 - 🎉**Apr. 2026:** Our paper "Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks" has been accepted by TMC (CCF A).
 - 🎉**Apr. 2026:** Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" has been accepted by TACO (CCF A).
