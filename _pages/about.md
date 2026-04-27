@@ -263,13 +263,17 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Consumer Electronics
+- IEEE Transactions on Big Data
 - IEEE Internet of Things Journal
-- Information Sciences
-- Knowledge-Based Systems
+- IEEE Journal of Biomedical and Health Informatics
+- Engineering Applications of Artificial Intelligence
 - Expert Systems With Applications
-- IET Software
 - Chinese Journal of Electronics
+- Knowledge-Based Systems
+- Information Sciences
 - China Communications
+- IET Software
+- MM 2026
 - AAAI 2025
 - ICASSP 2025
 
