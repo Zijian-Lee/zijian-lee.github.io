@@ -56,10 +56,22 @@ My research interest includes edge intelligence, federated learning, distributed
 <sup>†</sup> denotes co-first authors, and \* denotes the corresponding authors.
 
 ## Journal Papers:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/TMC26-FL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition]()
+
+Yuchao Hou, Dongming Lv, Minghui Liwang, Jie Wang, **<u>Zijian Li</u>\***, Xiaoyu Xia, Di Wu, Youliang Tian, Tony Q.S. Quek, Xianbin Wang
+
+*IEEE Transactions on Mobile Computing (TMC)*, 2026 (**CCF A**)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/TMC26.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks]()
+[Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks](https://ieeexplore.ieee.org/abstract/document/11479918)
 
 Baofeng Ji\*, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
 
@@ -124,7 +136,7 @@ Haoquan Wang, Boyuan Li, Panpan Chen, Libing Wu\*, **<u>Zijian Li</u>\***, Tony 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN 2025</div><img src='images/DCAN.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN 2025</div><img src='images/DCAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)
@@ -133,12 +145,15 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 
 *Digital Communications and Networks (DCAN)*, 2025 (**CIC T1**)
 </div>
-</div>
+</div> -->
 
 - [NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks]()<br>
   Naiyao Wang, Xirong Fu, Changdong Zhou, Houhua Shao, Jiahui Li, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2026 (**CIC T1**)<br>
-- [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation]()<br>
+- [FedTDC: Federated teacher-guided distillation with representation and aggregation calibration](https://www.sciencedirect.com/science/article/abs/pii/S095070512600746X)<br>
+  Ping Zhang, An Bao, Wenlong Lu, Mingkai Hu, Boyuan Li, Kai Guo, Zhuo Jin\*, **<u>Zijian Li</u>**<br>
+  *Knowledge-Based Systems (KBS)*, 2026 (**A1 TOP**)<br>
+- [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation](https://ieeexplore.ieee.org/abstract/document/11488235)<br>
   Baofeng Ji\*, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
 - [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
@@ -162,6 +177,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [Towards Secure SAR Image Generation via Federated Angle-Aware Generative Diffusion Framework](https://ieeexplore.ieee.org/document/11232467)<br>
   Yuchao Hou, Yue Wang, Xiaoyu Xia, Youliang Tian, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2025 (**A1 TOP**)<br>
+- [CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks](https://www.sciencedirect.com/science/article/pii/S2352864825000768)<br>
+  Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  *Digital Communications and Networks (DCAN)*, 2025 (**CIC T1**)<br>
 - [FedC-DAC: A Federated Clustering with Dynamic Aggregation and Calibration Method for SAR Image Target Recognition](https://ieeexplore.ieee.org/document/11319180)<br>
   Yuchao Hou, Shuai Zhao, Xiaoyu Xia, Minghui Liwang, **<u>Zijian Li</u>**, Nan Xu, Di Wu, Youliang Tian, Tony Q.S. Quek <br>
   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*, 2025 (**Q1**)<br>
