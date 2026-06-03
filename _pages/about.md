@@ -171,6 +171,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [Privacy-preserving federated SAR image target recognition with adaptive resource management in space-air-ground integrated networks](https://www.sciencedirect.com/science/article/pii/S0031320326002189)<br>
   Yuchao Hou, Bo Yu, Zhiqin Yang, Jie Wang, Wei Xiang, Di Wu, Minghui Liwang, Xiaoyu Xia, **<u>Zijian Li</u>**, Youliang Tian, Yuzhou Sun<br>
   *Pattern Recognition*, 2026 (**CCF B**)<br>
+- [YOLO-CAB: An Efficient Deep Learning-Based Underwater Object Detection Method for Autonomous Underwater Vehicles](https://www.mdpi.com/2227-7390/14/11/1927)<br>
+  Runze Li,Changdong Yu, Shuaiyu Bao, **<u>Zijian Li</u>**, Jinyi Yao <br>
+  *Mathematics*, 2026<br>
 - [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
   Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
