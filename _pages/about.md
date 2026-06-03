@@ -59,7 +59,7 @@ My research interest includes edge intelligence, federated learning, distributed
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/TMC26-FL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition]()
+[AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition](https://ieeexplore.ieee.org/abstract/document/11498445)
 
 Yuchao Hou, Dongming Lv, Minghui Liwang, Jie Wang, **<u>Zijian Li</u>\***, Xiaoyu Xia, Di Wu, Youliang Tian, Tony Q.S. Quek, Xianbin Wang
 
@@ -147,7 +147,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div> -->
 
-- [NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks]()<br>
+- [NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks](https://www.sciencedirect.com/science/article/pii/S2352864826000593)<br>
   Naiyao Wang, Xirong Fu, Changdong Zhou, Houhua Shao, Jiahui Li, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2026 (**CIC T1**)<br>
 - [FedTDC: Federated teacher-guided distillation with representation and aggregation calibration](https://www.sciencedirect.com/science/article/abs/pii/S095070512600746X)<br>
@@ -156,7 +156,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation](https://ieeexplore.ieee.org/abstract/document/11488235)<br>
   Baofeng Ji\*, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
-- [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee]()<br>
+- [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee](https://dl.acm.org/doi/abs/10.1145/3809161)<br>
   Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
   *ACM Transactions on Architecture and Code Optimization (TACO)*, 2026 (**CCF A**)<br>
 - [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11368712)<br>
@@ -173,7 +173,7 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
   *Pattern Recognition*, 2026 (**CCF B**)<br>
 - [YOLO-CAB: An Efficient Deep Learning-Based Underwater Object Detection Method for Autonomous Underwater Vehicles](https://www.mdpi.com/2227-7390/14/11/1927)<br>
   Runze Li,Changdong Yu, Shuaiyu Bao, **<u>Zijian Li</u>**, Jinyi Yao <br>
-  *Mathematics*, 2026<br>
+  *Mathematics*, 2026 (**Q1**)<br>
 - [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
   Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
@@ -261,9 +261,12 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 - IEEE Transactions on Information Forensics & Security
 - IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Parallel and Distributed Systems
+- IEEE Transactions on Communications
 - IEEE Transactions on Audio, Speech and Language Processing
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
+- IEEE Transactions on Cognitive Communications and Networking
 - IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Green Communications and Networking
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Consumer Electronics
 - IEEE Transactions on Big Data
