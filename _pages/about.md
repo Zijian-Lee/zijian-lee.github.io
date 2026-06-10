@@ -174,6 +174,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [YOLO-CAB: An Efficient Deep Learning-Based Underwater Object Detection Method for Autonomous Underwater Vehicles](https://www.mdpi.com/2227-7390/14/11/1927)<br>
   Runze Li,Changdong Yu, Shuaiyu Bao, **<u>Zijian Li</u>**, Jinyi Yao <br>
   *Mathematics*, 2026 (**Q1**)<br>
+- [Resource Allocation for UAV-Assisted Vehicular Networks with Integrated Sensing, Communication, and Computing in Emergency Scenarios](https://www.sciencedirect.com/science/article/abs/pii/S1874490726002181?via%3Dihub)<br>
+  Baofeng Ji, Zhan Huo, Boyuan Li, Yiwei Li, Huitao Fan, **<u>Zijian Li</u>** <br>
+  *Physical Communication*, 2026<br>
 - [Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness](https://ieeexplore.ieee.org/abstract/document/11271547)<br>
   Boyuan Li, Zihao Peng, Yafei Li\*, **<u>Zijian Li</u>\***, Shengbo Chen, Cong Shen, Tony Q.S. Quek<br>
   *IEEE Transactions on Network Science and Engineering (TNSE)*, 2025 (**A1**)<br>
