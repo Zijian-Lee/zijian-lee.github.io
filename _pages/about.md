@@ -27,7 +27,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
-
+- 🎉**Jun. 2026:** We will organize a UbiComp / ISWC 2026 Workshop "[Ubiquitous Connectivity for Agentic and Physical AI](https://con4ap.github.io/)", welcome to submit papers!
 - 🎉**May. 2026:** Our paper "AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition" has been accepted by IEEE TMC (CCF A).
 - 🎉**May. 2026:** Our paper "NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks" has been accepted by DCAN (CIC T1).
 - 🎉**Apr. 2026:** We will organize a Special Issue "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)" in CCF TPCI (CCF B), welcome to submit papers!
@@ -244,7 +244,9 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 # 💻 Services
 
 ## Conference Organization
+- TPC Co-Chair, UbiComp/ISWC Workshop 2026
 - Web Chair, IEEE BigDataSE 2025
+
 
 ## Technical Program Committee Membership
 - CCF HPC China 2025, Track of Programming and System
