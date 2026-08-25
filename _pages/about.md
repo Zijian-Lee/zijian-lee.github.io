@@ -27,6 +27,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Jul. 2026:** We will organize a Special Issue "[Federated Learning for Multi-agent Systems and Data Mining](https://www.techscience.com/cmc/special_detail/multi-agent-federated-learning)" in Computers, Materials & Continua, welcome to submit papers!
 - 🎉**Jun. 2026:** We will organize a UbiComp / ISWC 2026 Workshop "[Ubiquitous Connectivity for Agentic and Physical AI](https://con4ap.github.io/)", welcome to submit papers!
 - 🎉**May. 2026:** Our paper "AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition" has been accepted by IEEE TMC (CCF A).
 - 🎉**May. 2026:** Our paper "NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks" has been accepted by DCAN (CIC T1).
@@ -256,7 +257,9 @@ Bingcai Wei, Hui Liu\*, Chuang Qian, **<u>Zijian Li</u>\***, Wangyu Wu, Zijie Me
 
 ## Journal Editorship
 - Guest Editor, **CCF Transactions on Pervasive Computing and Interaction (CCF B)**, Special Issue on "[Pervasive Collaborative Intelligence: Federated and Distributed Model Learning across the Cloud–Edge–End Continuum](https://link.springer.com/collections/aabcfgghff)"
+- Guest Editor, **Computers, Materials & Continua**, Special Issue on "[Federated Learning for Multi-agent Systems and Data Mining](https://www.techscience.com/cmc/special_detail/multi-agent-federated-learning)"
 - Guest Editor, **Electronics**, Special Issue on "[Empowering IoT with AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)"
+- Member of the Youth Editorial Board, **Journal of Communications and Information Networks**
 
 ## Selected Technical Reviewer:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
