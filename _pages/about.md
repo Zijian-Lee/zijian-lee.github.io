@@ -148,27 +148,31 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 </div>
 </div> -->
 
+
 - [NEEM: A Neighborhood Entropy Energy-Based Model for High-Dimensional Data Distribution Estimation in Intelligent Communication Networks](https://www.sciencedirect.com/science/article/pii/S2352864826000593)<br>
   Naiyao Wang, Xirong Fu, Changdong Zhou, Houhua Shao, Jiahui Li, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
   *Digital Communications and Networks (DCAN)*, 2026 (**CIC T1**)<br>
-- [FedTDC: Federated teacher-guided distillation with representation and aggregation calibration](https://www.sciencedirect.com/science/article/abs/pii/S095070512600746X)<br>
-  Ping Zhang, An Bao, Wenlong Lu, Mingkai Hu, Boyuan Li, Kai Guo, Zhuo Jin\*, **<u>Zijian Li</u>**<br>
-  *Knowledge-Based Systems (KBS)*, 2026 (**A1 TOP**)<br>
-- [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation](https://ieeexplore.ieee.org/abstract/document/11488235)<br>
-  Baofeng Ji\*, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
-  *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
-- [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee](https://dl.acm.org/doi/abs/10.1145/3809161)<br>
-  Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
-  *ACM Transactions on Architecture and Code Optimization (TACO)*, 2026 (**CCF A**)<br>
 - [Secure Communication in the Presence of an RIS-Enhanced Eavesdropper in MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11368712)<br>
   Gaoyuan Zhang, Ruisong Si, Boyuan Li\*, **<u>Zijian Li</u>\***, Baofeng Ji, Chenqi Zhu, Tony Q.S. Quek<br>
   *IEEE Transactions on Wireless Communications (TWC)*, 2026 (**CCF B**)<br>
-- [Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data](https://ieeexplore.ieee.org/abstract/document/11421425/)<br>
-  Yi Zhang, Chao Zhang, **<u>Zijian Li</u>**, Tianxiang Xu, Kunyu Zhang, Zhan Gao, Meinuo Li, Xiaohan Zhang, Qichao Qi, Bing Chen<br>
-  *IEEE Transactions on Consumer Electronics (TCE)*, 2026 (**A1 TOP**)<br>
+- [RIS-Assisted Cascaded AF-DF Relaying for IoV: Performance Analysis and PSO-Based Power Allocation](https://ieeexplore.ieee.org/abstract/document/11488235)<br>
+  Baofeng Ji\*, Wenjuan Chai, Kaipeng Sun, Boyuan Li\*, **<u>Zijian Li</u>\***, Tony Q.S. Quek<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
 - [A Quantization Strategy for Federated Learning in Agricultural Internet of Things Devices](https://www.sciencedirect.com/science/article/abs/pii/S2542660526000314)<br>
   Jing Liu, Boyuan Li, Cui Liu, Shengbo Chen\*, **<u>Zijian Li</u>\***, Wenying Chen<br>
   *Internet of Things*, 2026 (**Q1**)<br>
+- [Communication-Efficient Federated LoRA Fine-Tuning of Foundation Models for Image Target Recognition over Heterogeneous AIoT Devices](https://ieeexplore.ieee.org/abstract/document/11716642)<br>
+  Yuchao Hou, Meiduo Guo, Zhiqin Yang, Ziwei Li, **<u>Zijian Li</u>**, Bo Gao, Yuezhi Che, Youliang Tian<br>
+  *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
+- [FedTDC: Federated teacher-guided distillation with representation and aggregation calibration](https://www.sciencedirect.com/science/article/abs/pii/S095070512600746X)<br>
+  Ping Zhang, An Bao, Wenlong Lu, Mingkai Hu, Boyuan Li, Kai Guo, Zhuo Jin\*, **<u>Zijian Li</u>**<br>
+  *Knowledge-Based Systems (KBS)*, 2026 (**A1 TOP**)<br>
+- [Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee](https://dl.acm.org/doi/abs/10.1145/3809161)<br>
+  Zhewen Xu, Hongliang Li, Junze Han, Hengshan Yue, Hairui Zhao, Dongyuan Tian, **<u>Zijian Li</u>**, Xiaohui Wei<br>
+  *ACM Transactions on Architecture and Code Optimization (TACO)*, 2026 (**CCF A**)<br>
+- [Hierarchical Dual-Strategy Unlearning for Biomedical and Healthcare Intelligence Using Imperfect and Privacy-Sensitive Medical Data](https://ieeexplore.ieee.org/abstract/document/11421425/)<br>
+  Yi Zhang, Chao Zhang, **<u>Zijian Li</u>**, Tianxiang Xu, Kunyu Zhang, Zhan Gao, Meinuo Li, Xiaohan Zhang, Qichao Qi, Bing Chen<br>
+  *IEEE Transactions on Consumer Electronics (TCE)*, 2026 (**A1 TOP**)<br>
 - [Privacy-preserving federated SAR image target recognition with adaptive resource management in space-air-ground integrated networks](https://www.sciencedirect.com/science/article/pii/S0031320326002189)<br>
   Yuchao Hou, Bo Yu, Zhiqin Yang, Jie Wang, Wei Xiang, Di Wu, Minghui Liwang, Xiaoyu Xia, **<u>Zijian Li</u>**, Youliang Tian, Yuzhou Sun<br>
   *Pattern Recognition*, 2026 (**CCF B**)<br>
