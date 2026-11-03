@@ -69,23 +69,13 @@ Yuchao Hou, Dongming Lv, Minghui Liwang, Jie Wang, **<u>Zijian Li</u>\***, Xiaoy
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/TMC26.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks](https://ieeexplore.ieee.org/abstract/document/11479918)
-
-Baofeng Ji\*, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>\***, Shahid Mumtaz, Tony Q.S. Quek
-
-*IEEE Transactions on Mobile Computing (TMC)*, 2026 (**CCF A**)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/TMC25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning](https://ieeexplore.ieee.org/document/11265807/)
 
-Boyuan Li<sup>†</sup>, **<u>Zijian Li</u><sup>†</sup>**, Yafei Li\*, Mingliang Xu\*, Shengbo Chen, Cong Shen, Tony Q.S. Quek
+Boyuan Li<sup>†</sup>, **<u>Zijian Li</u><sup>†</sup>**, Yafei Li\*, Mingliang Xu, Shengbo Chen, Cong Shen, Tony Q.S. Quek
 
 *IEEE Transactions on Mobile Computing (TMC)*, 2025 (**CCF A**)
 </div>
@@ -161,6 +151,9 @@ Munan Li, Xianshi Su, Runze Ma, Tongbang Jiang, **<u>Zijian Li</u>\***, Tony Q.S
 - [A Quantization Strategy for Federated Learning in Agricultural Internet of Things Devices](https://www.sciencedirect.com/science/article/abs/pii/S2542660526000314)<br>
   Jing Liu, Boyuan Li, Cui Liu, Shengbo Chen\*, **<u>Zijian Li</u>\***, Wenying Chen<br>
   *Internet of Things*, 2026 (**Q1**)<br>
+- [Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks](https://ieeexplore.ieee.org/abstract/document/11479918)<br>
+  Baofeng Ji\*, Pengchao Yu, Rongfeng Lu, Chenggang Yan, Hui Zhang, Huitao Fan, Boyuan Li\*, **<u>Zijian Li</u>**, Shahid Mumtaz, Tony Q.S. Quek<br>
+  *IEEE Transactions on Mobile Computing (TMC)*, 2026 (**CCF A**)<br>
 - [Communication-Efficient Federated LoRA Fine-Tuning of Foundation Models for Image Target Recognition over Heterogeneous AIoT Devices](https://ieeexplore.ieee.org/abstract/document/11716642)<br>
   Yuchao Hou, Meiduo Guo, Zhiqin Yang, Ziwei Li, **<u>Zijian Li</u>**, Bo Gao, Yuezhi Che, Youliang Tian<br>
   *IEEE Internet of Things Journal (IotJ)*, 2026 (**A1 TOP**)<br>
