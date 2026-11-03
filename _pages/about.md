@@ -27,6 +27,7 @@ My research interest includes edge intelligence, federated learning, distributed
 
 # 🔥 News
 
+- 🎉**Nov. 2026:** Our paper "AG-CoT: Algorithm-Guided Chain-of-Thought for Task-Oriented Spatial Planning in LLM-Based Agents" has been accepted by IEEE TNSE (A1).
 - 🎉**Jul. 2026:** We will organize a Special Issue "[Federated Learning for Multi-agent Systems and Data Mining](https://www.techscience.com/cmc/special_detail/multi-agent-federated-learning)" in Computers, Materials & Continua, welcome to submit papers!
 - 🎉**Jun. 2026:** We will organize a UbiComp / ISWC 2026 Workshop "[Ubiquitous Connectivity for Agentic and Physical AI](https://con4ap.github.io/)", welcome to submit papers!
 - 🎉**May. 2026:** Our paper "AsyncFed-SAR: Towards Communication-Efficient Asynchronous Federated Learning for SAR Image Target Recognition" has been accepted by IEEE TMC (CCF A).
@@ -112,6 +113,18 @@ Boyuan Li<sup>†</sup>, **<u>Zijian Li</u><sup>†</sup>**, Yafei Li\*, Minglia
 Runze Ma, **<u>Zijian Li</u>\***, Xianshi Su, Munan Li, Tony Q.S. Quek
 
 *Computer Networks (CN)*, 2026 (**CCF B**)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSE 2026</div><img src='images/tnse-26.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AG-CoT: Algorithm-Guided Chain-of-Thought for Task-Oriented Spatial Planning in LLM-Based Agents]()
+
+Zijian Li, Jingyi Liu, Fei Li, Yongheng Xing, Changdong Yu, Boyuan Li\*, Bingcai Wei\*, and Tony Q.S. Quek
+
+*IEEE Transactions on Network Science and Engineering (TNSE)*, 2026 (**A1**)
 </div>
 </div>
 
