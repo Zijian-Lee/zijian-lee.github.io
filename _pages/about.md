@@ -122,7 +122,7 @@ Runze Ma, **<u>Zijian Li</u>\***, Xianshi Su, Munan Li, Tony Q.S. Quek
 
 [AG-CoT: Algorithm-Guided Chain-of-Thought for Task-Oriented Spatial Planning in LLM-Based Agents]()
 
-Zijian Li, Jingyi Liu, Fei Li, Yongheng Xing, Changdong Yu, Boyuan Li\*, Bingcai Wei\*, and Tony Q.S. Quek
+**<u>Zijian Li</u>**, Jingyi Liu, Fei Li, Yongheng Xing, Changdong Yu, Boyuan Li\*, Bingcai Wei\*, and Tony Q.S. Quek
 
 *IEEE Transactions on Network Science and Engineering (TNSE)*, 2026 (**A1**)
 </div>
